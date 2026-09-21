@@ -2,7 +2,7 @@
 
 ## Overview
 
-A comprehensive solver for Golomb Rulers (CSPLib Problem 006) with multiple constraint-based extensions.
+A comprehensive solver for Golomb Rulers (CSPLib Problem 006 | https://www.csplib.org/Problems/prob006/) with multiple constraint-based extensions.
 
 **Standard Golomb Ruler:** All pairwise distances are distinct.
 
@@ -41,9 +41,3 @@ The program outputs four variants for comparison:
 - Disjoint Rulers
 - Prime Golomb
 - Disjoint Prime Rulers
-
-## References
-
-- CSPLib Problem 006: https://www.csplib.org/Problems/prob006/
-- MiniZinc: https://www.minizinc.org/
-- Golomb Rulers: http://datagenetics.com/blog/february22013
